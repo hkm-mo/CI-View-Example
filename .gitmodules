@@ -1,0 +1,3 @@
+[submodule "application/libraries/View"]
+	path = application/libraries/View
+	url = https://github.com/hkm-mo/CI-View.git
