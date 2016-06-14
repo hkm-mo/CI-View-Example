@@ -1,3 +1,3 @@
 # CI View example
 
-Please refer [CI View](https://github.com/hkm-mo/CI-View)
+For a detailed document, please refer to [CI View](https://github.com/hkm-mo/CI-View)
